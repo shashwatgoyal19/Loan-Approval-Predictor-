@@ -2,7 +2,7 @@
 name = "loan-prediction"
 version = "0.1.0"
 description = "Project for CS F415 Data Mining"
-authors = ["Alok Desai <alokdesai2004@gmail.com>"]
+authors = ["Shashwat Goyal <shashwatgoyal19@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
